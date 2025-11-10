@@ -3,7 +3,7 @@
 **Authors:** Jordan Lee, **Abdirahman Abdullahi**, Filippos Ventirozos  
 **Status:** Under Review – *LREC 2025 (Main Track)*  
 **Paper:** [“AutoSpecNER: A Dataset and Benchmark for Named Entity Recognition of Vehicle Specifications”](#)  
-**Institution(s):** [University / Lab names]  
+**Institution(s):** [Manchester Metropolitan University in conjunction with Autotrader UK ]  
 
 ---
 
